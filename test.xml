@@ -2,9 +2,9 @@
 <?xml-stylesheet type='text/css' href='style.css'?>
 <document>
     <!-- We can put any comments here -->
-    <module lecturer="20191234">Interactive Web Applications&#33;</module>
+    <module lecturer="2019472">Interactive Web Applications&#33;</module>
     <module>
         <ca>3</ca>
-        <title>My first app</title>
+        <title>My first app week 2</title>
     </module>
 </document>
